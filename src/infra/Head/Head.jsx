@@ -22,7 +22,7 @@ return output;
 
 export const Head = withRouter(function Head({ imageRoutePath, router, title, ogTitle, description, image, children }) {
   const routePath = imageRoutePath || (router.route === "/" ? "" : router.route);
-  const url = "https://mariosouto.com" + routePath;
+  const url = "https://www.danilorighetto.com.br" + routePath;
 
   const ogImage = buildOgImageUrl({
     title,

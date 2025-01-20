@@ -47,7 +47,7 @@ async function importPosts(postFilename) {
     registered,
     date: fileDate,
     slug,
-    author: 'Mario Souto',
+    author: 'Danilo Righetto',
     comments: true,
     ...meta,
     content,

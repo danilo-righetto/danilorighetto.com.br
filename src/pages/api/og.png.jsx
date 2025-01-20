@@ -133,7 +133,7 @@ export default async function handler(req) {
                   }}
                 >
                   <img
-                    src="https://github.com/omariosouto.png"
+                    src="https://github.com/danilo-righetto"
                     width="25px"
                     height="25px"
                     style={{
@@ -153,7 +153,7 @@ export default async function handler(req) {
                       color: "#B1B1B1",
                     }}
                   >
-                    mariosouto.com<br />
+                    danilorighetto.com.br<br />
                     <span
                       style={{
                         color: "#B1B1B1",

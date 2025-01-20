@@ -21,7 +21,7 @@ export const Comments = ({ slug }) => {
       const config = {
         id: scriptId,
         src: 'https://utteranc.es/client.js',
-        repo: 'devsoutinho/mariosouto.com',
+        repo: 'danilo-righetto/danilorighetto.com.br',
         'issue-term': `comments/${slug}`,
         label: "comments",
         theme,

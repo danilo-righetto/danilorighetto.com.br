@@ -1,1 +1,1 @@
-export const PUBLIC_SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://mariosouto.com";
+export const PUBLIC_SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.danilorighetto.com.br";

@@ -48,7 +48,7 @@ export default function Sobre() {
       <Head
         ogTitle={"Conheça um pouco sobre a minha pessoa"}
         title={`Sobre - ${config.owner}`}
-        description={`Eu sou Mario Souto, prazer!`}
+        description={`Eu sou Danilo Righetto, prazer!`}
       />
 
       <Container className="mt-16 sm:mt-32">
@@ -66,7 +66,7 @@ export default function Sobre() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              Eu sou Mario Souto, prazer!
+              Eu sou Danilo Righetto, prazer!
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>

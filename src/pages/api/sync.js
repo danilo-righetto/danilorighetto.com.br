@@ -37,7 +37,7 @@ import { Video, Link, ArticleLayout } from '@src/components/content'
 export const meta = {
   url: "${video.url}",
   image: 'https://i.ytimg.com/vi/${getYoutubeId(video.url)}/maxresdefault.jpg',
-  author: 'Mario Souto',
+  author: 'Danilo Righetto',
   date: '${postDate}',
   slug: '${slugify(video.title)}',
   title: '${video.title}',

@@ -1,4 +1,4 @@
-# Mario Souto
+# Danilo Righetto
 User-agent: *
 Allow: /
-Sitemap: https://mariosouto.com/sitemap.xml
+Sitemap: https://danilorighetto.com.br/sitemap.xml

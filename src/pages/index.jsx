@@ -297,15 +297,13 @@ export default function Home({ articles }) {
             {config.title}
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Eu me chamo Mario Souto, acredito na web como plataforma e trabalho para viver uma sempre melhor. Sou{' '}
-            <NavLink href="https://developers.google.com/community/experts/directory/profile/profile-mario-souto-silva?hl=pt-br" target="_blank">
-              Google Developer Expert (Web Technologies)
-            </NavLink>, <NavLink href="https://github.com/omariosouto" target="_blank">
+            Eu me chamo Danilo Righetto, acredito na criação de software para a criação de um mundo melhor. Sou{' '}
+            <NavLink href="https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas" target="_blank">
+              Analista de Sistemas (Tecnólogo)
+            </NavLink>, <NavLink href="hhttps://github.com/danilo-righetto" target="_blank">
               GitHub Star
-            </NavLink>, <NavLink href="https://mvp.microsoft.com/en-us/PublicProfile/5003722?fullName=Mario%20Souto%20Silva" target="_blank">
-              Microsoft MVP
-            </NavLink> e dono do <NavLink href="https://youtube.com/@DevSoutinho" target="_blank">
-              Canal DevSoutinho no YouTube
+            </NavLink> e dono do <NavLink href="https://youtube.com/@danilorighetto" target="_blank">
+              Canal DaniloRighetto no YouTube
             </NavLink>
           </p>
           <div className="mt-6 flex gap-6">

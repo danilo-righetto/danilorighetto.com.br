@@ -1,8 +1,8 @@
 backend:
   name: github
   branch: main
-  repo: devsoutinho/mariosouto.com
-  base_url: https://mariosouto.com/
+  repo: danilo-righetto/danilorighetto.com.br
+  base_url: https://www.danilorighetto.com.br/
   auth_endpoint: api/auth/ # Essa rota vai ser muito importante mais para frente
 
 media_folder: public/images/uploads
